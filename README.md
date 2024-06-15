@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of your `README.md` file that includes links to your GitHub repository and Replit for forking and playing online:
-
----
-
 # Guess Game
 
 Welcome to the Guess Game repository! This project implements a simple number guessing game where the player tries to guess a random number between 1 and 100.
