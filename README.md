@@ -24,7 +24,7 @@ Welcome to the Guess Game repository! This project implements a simple number gu
 
 ## Play Online
 
-- You can also play the game online on Replit. Click [here](https://replit.com/@nikhilconnectno/GleamingLightblueMetric#main.py) to fork and play.
+- You can also play the game online on Replit. Click [here](https://replit.com/@nikhilconnectno/Guess-game#main.py) to fork and play.
 
 ## Gameplay
 
@@ -49,4 +49,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 ### Notes:
-- Make sure to replace placeholders like `[GitHub](https://github.com/Nikhilconnectnow/Guess-game)` and `[here](https://replit.com/@nikhilconnectno/GleamingLightblueMetric#main.py)`# Guess-game
+- Make sure to replace placeholders like `[GitHub](https://github.com/Nikhilconnectnow/Guess-game)` and `[here](https://replit.com/@nikhilconnectno/Guess-game#main.py)`# Guess-game
